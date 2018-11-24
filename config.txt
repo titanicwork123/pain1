@@ -1,6 +1,6 @@
 token=NTE1OTQwNDQ1ODI2NzExNTYy.DtsaiQ.1axB1-6IEeFBQyavkOvyyKWFzwM
 owner=349205405106176001
-prefix=k
-game=Type khelp
+prefix=K
+game=Type Khelp
 stayinchannel=true
 songinstatus=true
